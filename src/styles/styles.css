@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+  color: #222222;
+}
+
+a:hover {
+	text-decoration: none;
+  color: #777777;
+}
+
+nav {
+  margin: 0 auto;
+  text-align: center;
+  width: 95%;
+}
+
+ol {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
